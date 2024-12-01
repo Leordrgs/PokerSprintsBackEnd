@@ -1,5 +1,5 @@
 export interface SessionToken {
-    userId: string
-    name: string
-    email: string
-  }
+  userId: string
+  name: string
+  email: string
+}
